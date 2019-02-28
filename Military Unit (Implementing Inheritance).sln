@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.271
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Military Unit (Implementing Inheritance)", "Military Unit (Implementing Inheritance)\Military Unit (Implementing Inheritance).csproj", "{3601BB0F-5C3A-4F38-B666-36C1F6CE9D40}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Military Unit (Implementing Inheritance)Library", "Military Unit (Implementing Inheritance)Library\Military Unit (Implementing Inheritance)Library.csproj", "{FF6DE4BA-4D47-4567-82D1-7FAEA5365E13}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3601BB0F-5C3A-4F38-B666-36C1F6CE9D40}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3601BB0F-5C3A-4F38-B666-36C1F6CE9D40}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3601BB0F-5C3A-4F38-B666-36C1F6CE9D40}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3601BB0F-5C3A-4F38-B666-36C1F6CE9D40}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FF6DE4BA-4D47-4567-82D1-7FAEA5365E13}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FF6DE4BA-4D47-4567-82D1-7FAEA5365E13}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FF6DE4BA-4D47-4567-82D1-7FAEA5365E13}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FF6DE4BA-4D47-4567-82D1-7FAEA5365E13}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EA13945B-3E63-468D-A725-94743686EBBA}
+	EndGlobalSection
+EndGlobal
